@@ -27,15 +27,42 @@
 ш	S@
 щ	StS@
 
-// Native numbers 0-10
+// Numbers in Kazakh
 _0n	nYl
-_1n	bI*
+_1n	bIR
 _2n	jekI
-_3n	u#S
-_4n	t8*t
-_5n	beS
-_6n	alt*
+_3n	'u#S;
+_4n	t8rt
+_5n	bes
+_6n	altI
 _7n	ZetI
 _8n	segIz
-_9n	toG@z
+_9n	toG'@z
 _10n	on
+
+_11n	 on'bIR
+_12n   on'jekI
+_13n   on'u#S;
+_14n   on't8Rt
+_15n	 on'bes
+_16n	 on'altI
+_17n	 on'Z;etI
+_18n	 on'segIz
+_19n   on'toG@z
+
+_2X   ZIRm'a
+_3X   ot'@z
+_4X   qIR'Iq
+_5X   elu#
+_6X   alp'Is
+_7X   Zetp'Is
+_8X   seks'en
+_90   toqs'an
+
+_0C   Z;u#z
+_2C   jekI'Zu#z
+
+_0M1  m@n
+_0M2  milj'on
+_0M3  milj'ard
+
