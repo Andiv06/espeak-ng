@@ -1,0 +1,53 @@
+// This file is UTF8 encoded 
+// Spelling to phoneme rules for Mongolian
+
+Mongolian letters - (Cyrilic Alphabets)
+a  a:
+б  be:
+в  ve:
+г  ge:
+д  de:
+e  j,e:
+ё  j,o:
+ж  dZe:
+з  ze:
+и  i
+й  hagas 'i:
+к ka:
+л 'e:l#
+м 'e:m
+н 'e:n
+о  o:
+ө  Y:
+п  pe:
+р  re:
+с  se:
+т  te:
+у  u:
+ү  Y:
+ф  fe:
+х  x2a:
+ц  ts.e:
+ч  tS.e:
+ш  s.a:
+щ  S;a:
+ъ  x2a:tu:#u:g'i:in  t,e:md'e:r2
+ы  e:r ygi'i:n
+ь  z,Y:Y:l#n,ii:  te:md'e:r2
+э  e:2
+ю  ju:2
+я  ja:2
+
+Native numbers 0-10
+
+_0  te:g
+_1  n,e:g
+_2  x2o:j'o:r
+_3  g,u:r'a:v
+_4  dO:r'O:v
+_5  t,a:v
+_6  z,u:rg'a:a:
+_7  d,o:l#'o:o:
+_8  n,a:'i:m
+_9  'e:s
+_10 'a:r'a:v
