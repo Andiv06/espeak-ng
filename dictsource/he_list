@@ -1,3 +1,6 @@
+// This file is UTF8 encoded 
+// Spelling to phoneme rules for Hebrew
+
 // names of letters
 א   alef?
 בּ   bet
@@ -7,19 +10,19 @@
 ה   he
 ו   vav
 ז   'zajin
-ח   Xet
+ח   x3et
 ט   tet
 י   jod
 כּ   kaf
-כ   Xaf
+כ   x2af
 ךּ   kaf sofit
-ך   Xaf sofit
+ך   x2af sofit
 ל   'lamed
 מ   mem
 ם   mem sofit
 נ   nun
 ן   nun sofit
-ס   'sameX
+ס   'samex2
 ע   ?ajin
 פּ   pe
 פ   fe
@@ -32,3 +35,17 @@
 שׂ  sin
 תּ  tav
 ת  Tav
+
+// Native numbers in Hebrew 0-10
+
+_0  'efes
+_1  'ex2ad
+_2  Shta'im
+_3  S'aloS
+_4  'arba
+_5  x3amesh
+_6  S'eS
+_7  Sev'a
+_8  Sm'one
+_9  T'eSa
+_10 'eser
