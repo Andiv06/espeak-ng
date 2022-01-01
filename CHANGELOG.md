@@ -35,10 +35,12 @@ documentation:
 * Add documentation about dictionary flags.
 
 updated languages:
+*  ar (Arabic) -- king-dahmanus
 *  ba (Bashkir) -- boracasli98, Valdis Vitolins, Juho Hiltunen
 *  de (German) -- Karl Eick, Henry Krumb
 *  el (Modern Greek) -- Reece Dunn (support for variant Greek letter forms)
 *  en (English) -- Steven Presser, Ben Talagan
+*  eo (Esperanto) -- AlsoScratch
 *  eu (Basque) -- agonzalezd
 *  fa (Farsi/Persian) -- Shadyar Khodayari
 *  ga (Gaelic (Irish)) Chen, Chien-ting
