@@ -1,0 +1,123 @@
+// This file is UTF8 encoded 
+// Spelling to phoneme rules for Mongolian
+
+
+.group а
+        а        A:
+
+.group ә
+        ә        &
+
+.group б
+        б        b
+	
+.group в
+        в        v
+
+.group г
+        г        g
+
+
+.group д
+        д        d
+
+.group е
+        е        je:
+
+.group ё
+        ё        jo:
+
+.group ж
+        ж        dZ
+
+.group з
+        з        z
+
+.group и
+        и        i
+
+.group й
+        й        I:
+
+.group к
+        к        k
+
+
+.group л
+        л        l#
+
+.group м
+        м        m
+
+.group н
+        н        n
+
+.group ң
+        ң        N
+
+.group о
+        о        o
+
+.group ө
+        ө        8
+
+.group п
+        п        p
+
+.group р
+        р        *
+
+.group с
+        с        s
+
+.group т
+        т        t
+
+.group у
+        у        w
+
+
+.group ү
+        ү        y:
+
+.group ф
+        ф        f
+
+.group х
+        х        x
+
+.group һ
+        һ        h
+
+.group ц
+        ц        ts
+
+.group ч
+        ч        c'
+
+.group ш
+        ш        s.
+
+.group щ
+        щ        S;
+
+.group ъ
+        ъ        ?
+
+.group ы
+        ы        y
+
+.group і
+        і        I
+
+.group ь
+        ь        ?
+
+.group э
+        э        e
+
+.group ю
+        ю        ju
+
+.group я
+        я        ja
