@@ -1,0 +1,47 @@
+// This file is UTF8 encoded 
+// Spelling to phoneme rules for Somali
+
+//Somali letter names:
+
+'  al'ef
+a  &
+b  ba:
+t  ta:
+j  dZe:m
+x  x'a:
+kh Q'a
+d  de:l
+r  r'a:
+s  s'i:n
+s  S'i:n
+dh D'a
+c  'ain
+g  Qa:in
+f  fa
+q  g'af
+k  k'af
+l  lan
+m  mi:m
+w  waw
+h  ha
+y  ja
+e  e
+i  i
+o  o
+u  u
+
+//Numbers in Somali
+
+_0 eb'er?
+_1 mi?d
+_2 l'aba?
+_3 s'addex?
+_4 af'ar?
+_5 S'an?
+_6 l'ix?
+_7 tod'oba?
+_8 sid'e:d?
+_9 s'aga:l?
+_10 tob'an?
+
+
