@@ -1,0 +1,12 @@
+s (8 sloc)  128 Bytes
+   
+language variant
+name Ramona
+
+voicing 70
+pitch 165 145
+flutter 0
+
+formant 1 160 155 100
+formant 2 100 110 100
+formant 3 100 80 75
