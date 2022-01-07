@@ -271,9 +271,9 @@ ele	jele $u+
 
 
 
-dumneavoastră $u3+
+dumneavoastră $u4+
 voastră $u1+
-dumneata $u3+
+dumneata $u4+
 matale $u2+
 
 mă	$u
@@ -289,7 +289,6 @@ se	$u
 îmi	$u
 îţi	$u
 ţi	$u
-ţie	ts'je $u
 mi	$u
 şi	$u
 
@@ -418,7 +417,7 @@ cam $u
 celelalte $u3+
 celălalt $u3+
 fiecărui fjek'@ruI $u
-fiekăruia fjec'@ruIa $u+
+fiecăruia fjek'@ruIa $u+
 încotro	$3
 mai	$u
 orice	o*I^tS,e $u3 	// any
