@@ -1,0 +1,79 @@
+// This file is UTF8 encoded 
+// Spelling to phoneme rules for Somali
+
+//Somali letter names:
+
+'  al'ef
+a  &
+b  ba:
+t  ta:
+j  dZe:m
+x  x'a:
+kh Q'a
+d  de:l
+r  r'a:
+s  s'i:n
+s  S'i:n
+dh D'a
+c  'ain
+g  Qa:in
+f  fa
+q  g'af
+k  k'af
+l  lan
+m  mi:m
+w  waw
+h  ha
+y  ja
+e  e
+i  i
+o  o
+u  u
+
+//Numbers in Somali
+
+_0 eb'er?
+_1 ko:w?
+_2 l'aba?
+_3 s'addex?
+_4 a:far?
+_5 S'a:n?
+_6 l'ix?
+_7 tod:oba?
+_8 sid'e:d?
+_9 s'aga:l?
+_10 tob'an?
+_11 ko:bitob'an?
+_12 laba:i:otob'an?
+_13 sa:d:exi:otob'an?
+_14 a:fari:otob'an?
+_15 S'a:ni:otob'an?
+_16 li:xi:otob'an?
+_17 tod:obai:otob'an?
+_18 sid'e:di:otob'an?
+_19 saga:li:otob'an?
+_2X labaa:t'an?
+_3X so:d:on?
+_4X afa:rt'an?
+_5X ko:nt'on?
+_6X li:xd'an?
+_7X tod:obaa:t'an?
+_8X sid:ee:t'an?
+_9X sagaa:S'an?
+
+_0C bog'o:l'al?
+_1C bog'o:l?
+_2C la:bo:bo:g'ol?
+
+_0M1 k'u:n?
+_1M1 k'u:n_!
+
+_0M2 maljuu:n?
+_1M2 milj'an_!
+_2M2 la:ba:maljuu:n? 
+
+_0M3 bilj'an?
+_1M3 ko:wbilj'an?
+_2M3 la:ba:bilj'an?
+
+_dpt D'ibik?
