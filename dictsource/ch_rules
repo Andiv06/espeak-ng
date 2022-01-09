@@ -1535,13 +1535,3 @@ formal) ie         =I@
      _) - (_D      _
 
  _L05_) : (_L06D_  %u:r // Say time
-
-// pronounce every word Polish containing Polish diacritics
-ą	_^_pl
-ć	_^_pl
-ę	_^_pl
-ł	_^_pl
-ń	_^_pl
-ś	_^_pl
-ż	_^_pl
-ź	_^_pl
