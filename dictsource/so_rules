@@ -1,0 +1,105 @@
+// Somali translation rules
+
+.group a
+        a          a:
+        aa         &:
+
+.group b
+        b          b
+        bb         b:
+
+.group c
+        c          a:'i:
+
+.group d
+        d          d
+        dd         d:
+
+.group e
+        e          e
+        ee         e:
+
+.group f
+        f          f
+
+.group g
+        g          g
+        gg         g:
+
+.group h
+        h          h
+
+.group i
+        i          i
+        iy         ij:
+
+.group j
+        j          dZ
+
+.group k
+        k          k
+        kk         k:
+
+.group l
+        l          l
+        ll         l:
+
+.group m
+        m          m
+        mm         m:
+
+.group n
+        n          n
+        nn         n:
+
+.group o
+        o          o
+        oo         o:
+
+.group p
+        p          p
+        pp         p:
+
+.group q
+        q          q
+        qq         q:
+
+.group r
+        r          r
+        rr         r:
+
+.group s
+        s          s
+        ss         s:
+
+.group t
+        t          t
+        tt         t:
+
+.group u
+        u          u
+        uu         u:
+
+.group v
+        v          v
+
+.group w
+        w          w
+
+.group x
+        x          x
+        xx         xx
+
+.group y
+        y          y
+        yy         y:
+
+.group z
+        z          ts
+        zz         ts
+
+
+.group dh
+        dh         d:
+
+
