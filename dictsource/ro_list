@@ -22,7 +22,7 @@ f	fe
 g	dZe
 h	haS
 _i	i
-_î	,ydin'i
+_î	,y
 j	Ze
 k	ka
 _l	le
@@ -31,7 +31,7 @@ _n	ne
 _o	o
 p	pe
 q	kju
-r	re
+r	Re
 _s	se
 ş	Se
 t	te
@@ -40,12 +40,12 @@ _u	u
 v	ve
 w	dublu've
 x	iks
-y	'igrek
+y	'ig*ek
 z	zet
 
 â	,ydin'a $atend
 ă	'@ $atend
-î	,ydin'i $atend
+î	,y $atend
 ö	$accent
 
 _??	ka*akt'er
@@ -90,7 +90,7 @@ _<	maI||m'ik
 _>	maI||m'a*e
 _~	t'ild@
 _\	b,eksl'eS
-_|	b'ar@vertik'al@
+_|	b'a*@veRtik'al@
 _#9	t'ab
 _#32	sp'atsiU
 
@@ -100,10 +100,10 @@ _#32	sp'atsiU
 #	dj'ez		$max3
 +	plus		$max3
 &	ampersand
-©	k'apiraIt 
+©	k'apiRaIt 
 @	a*'ond
 /	sleS
-€	'eU*o
+€	'eu*o
 °	g@-*ade
 
 
@@ -111,7 +111,7 @@ _#32	sp'atsiU
 //********
 _0	z'e*o
 _1	'unu
-_2	d'oI
+_2	d'oj
 _2f	d'ou@
 _3	t@-*'eI
 _4	p'at@-*u
@@ -119,37 +119,18 @@ _5	tS'intSI^
 _6	S'ase
 _7	S'apte
 _8	'opt
-_9	n'oU@
+_9	n'ou@
 _10	z'etSe
 
 _11	'unsp@-*ez,etSe
-_12	d'oIsp@-*ez,etSe
+_12	d'ojsp@-*ez,etSe
 _13	t@-*'eIsp@-*ez,etSe
-_14	p'aIsp@-*ez,etSe
+_14	p'aip@-*ez,etSe
 _15	tS'insp@-*ez,etSe
 _16	S'aIsp@-*ez,etSe
 _17	S'aptesp@-*ez,etSe
 _18	'optsp@-*ez,etSe
-_19	n'oU@sp@-*ez,etSe
-
-//_11	'unSpe
-//_12	d'oISpe
-//_13	t@-*'eISpe
-//_14	p'aISpe
-//_15	tS'inSpe
-//_16	S'aISpe
-//_17	S'apteSpe
-//_18	'optiSpe
-//_19	n'oU@Spe
-
-_20	dou@z'etSI^
-_30	t@-*eIz'etSI^
-_40	pat@-*uz'etSI^
-_50	tSinz'etSI^
-_60	SaIz'etSI^
-_70	Saptez'etSI^
-_80	optz'etSI^
-_90	noU@z'etSI^
+_19	n'ou@sp@-*ez,etSe
 
 _2X	d'ou@zetSI^
 _3X	t@-*'eIzetSI^
@@ -190,6 +171,26 @@ vii	viI
 //**************
 
 $textmode
+str     strada
+bl      blocul
+ap      apartamentul
+nr      numărul
+sec     secunde
+min     minute
+ian     ianuarie
+feb     februarie
+mar     martie
+apr     aprilie
+may     mai
+iun     iunie
+iul     iulie
+aug     august
+sep     septembrie
+oct     octombrie
+nov     noiembrie
+dec     decembrie
+usd     dolari americani
+chf     franci elvețieni
 etc	etcetera
 (b-dul) bulevardul 
 udmr udemer'e
@@ -235,8 +236,9 @@ anumitor $u3
 asta	$u+
 ăsteia	$u1+
 acest	$u+     // this
-aceşti	$u
-aceştia	$u
+acesta  
+aceşti	$u+
+aceştia	$u+
 acestor	$u2+
 acestora $u2+
 
@@ -261,7 +263,7 @@ aceleaşi $2
 
 
 // pronouns
-eu	jeU $u+
+eu	jeu $u+
 tu	$u+
 el	jel $u+
 ea	ja $u+
@@ -289,16 +291,17 @@ se	$u
 îmi	$u
 îţi	$u
 ţi	$u
-ţie	ts'je $u
+ţie	ts'ie $u+
 mi	$u
 şi	$u
 
+înșiși  $u1+
 însuşi	$u1+
 însăşi	$u1+
 însumi	$u1+
 însuţi	$u1+
 nimeni	$u1+
-nimănui nim@n'uI 
+nimănui nim@n'ui
 
 care	$u1 $brk
 // who that which what
@@ -332,11 +335,11 @@ sale	$u1+
 lui	$u+
 ei	jeI $u+
 nostru	$u1+
-noştri	noSt*i $u1+
+noştri	noSt@-*i $u1+
 noastră	$u1+
 noastre	$u1+
 vostru	$u+
-voştri	voSt*i $u1+
+voştri	voSt@-*i $u1+
 voastră	$u+
 voastre	$u+
 lor	$u+
@@ -352,17 +355,16 @@ ale	$u $brk
 in	$u $brk
 în	$u $brk
 pe	$u $brk
-că	$u+
+că	$u
 ca $u
 ce	$u+ 
 la      $u $brk
 de	$u
 (de la)	dela $u
-din	$u $brk
-pentru	$u $brk
+din	$u+ $brk
+pentru	$u+ $brk
 cu	$u		// with
 fără	f,@r@ $pause		// without
-fara	f,@r@ $pause	// (fără)
 lângă	$brk		// beside
 prin	$u $brk 		// through
 alături $2 $brk // beside
@@ -386,13 +388,12 @@ sau	$u $pause	// or
 ori	$u $pause	// or
 dar	$u $pause	// but
 deoarece deOaretS'e $pause		// because
-dacă	$u $pause	// if
-daca	dak@ $u $pause	// (dacă)
-când	$u $pause	// when
+dacă	$u+ $pause	// if
+când	$u+ $pause	// when
 cum	$pause		// how, as, since
 astfel	$1 $pause		// thus
 deşi	$2 $pause	// although
-fie	f'ie $u		// either
+fie	f'ie $u+		// either
 însă	$pause		// but, yet, however
 atunci	$pause		// therefore
 (de atunci) d%e||at'untSI^ $pause   // since then
@@ -414,13 +415,13 @@ aşa	$2 $brk		// so, thus
 altfel	$1 $brk //otherwise
 atâţia	at'ytsja
 abia	abj'a
-cam $u 
+cam $u+ 
 celelalte $u3+
 celălalt $u3+
-fiecărui fjek'@ruI $u
-fiekăruia fjec'@ruIa $u+
+fiecărui fjek'@rui $u+
+fiecăruia fjek'@ruja $u+
 încotro	$3
-mai	$u
+mai	$u+
 orice	o*I^tS,e $u3 	// any
 oricine	o*I^tS,ine $u3+
 oricare	o*I^k,a*e $u+ 
@@ -438,7 +439,7 @@ rareori	ra*e'o*;I^
 totuşi	$1 $brk	// never, though, nevertheless
 multor	$u1
 multora	$u1+
-tocmai	$u1 // just
+tocmai	$u1+ // just
 totusi	$1 $brk	// (totuşi)
 unde	$brk	// where
 
@@ -480,7 +481,7 @@ vom	$u+ $verbf
 veţi	$u+ $verbf
 vor	$u+ $verbf
 
-există	$u	// there is
+există	$brk	// there is
 
 face	$u+	// to do
 
@@ -495,7 +496,7 @@ trebui	t@-*ebw'i        // to have to
 
 
 //ordinal numerals 
-doilea d'oIlea
+doilea d'ojlea
 treilea t@-*'eIlea
 patrulea $1
 cincilea $1
@@ -551,13 +552,13 @@ deveni	$3
 dovedi	$3
 domoli	$3
 duhni	$2
-făgăduui f@g@du'i
+făgădui f@g@du'i
 feri	$2
 gândi	$2
 găsi	$2
 goni	$2
 grăbi	$4
-greşi	$2
+greşi	g@-*eS'i
 hăcui	$3
 
 hohoti	$3
@@ -651,7 +652,7 @@ sfriji	$2
 slobozi	$3
 sluji	$2
 sosi	$2
-supravieţui supravjetsu'i
+supravieţui supRavjetsu'i
 stârni	$3
 strivi	$2
 stropşi	$2
@@ -706,6 +707,7 @@ arăta $3
 amuţea $3
 ardea $2
 apleca $3
+aplica $3
 apuca $3
 asculta $3
 ascundea $3
@@ -873,6 +875,7 @@ holba $2
 intersecta $4
 înţelegea $4
 îmbrăca $3
+încălca $3
 încălzea	$3
 încărca	$3
 încerca	$3
@@ -930,7 +933,6 @@ mişuna $3
 modela $3
 modera $3
 modifica $4
-
 mulţumea $3
 murea $2
 murmura $3
@@ -953,7 +955,7 @@ participa $4
 părea	$2
 păstra $2
 păcăli $3
-pălea	pale'a
+pălea	p@le'a
 păsa $2
 păzea	$2
 permitea $3
@@ -1045,7 +1047,7 @@ stagna stagn'a
 stăpânea	$3
 stârnea $2
 stătea	$2
-ştia St'ja
+ştia Sti'a
 stoca $2
 străfulgera $4
 strica	$2
@@ -1111,7 +1113,7 @@ zicea $2
 
 // hyphenated contractions
 (să l)	s@l     $u
-(să i)	s@I     $u
+(să i)	s@i     $u
 (să şi)	s@S;I^  $u
 (s ar) sar $u
 (s or) sor $u
@@ -1122,7 +1124,8 @@ zicea $2
 (ţi am) tsjam $u
 (ţi ar) tsjar $u
 (ţi au) tsjaU $u
-(ţi ai) tsjaI $u
+(ţi ai)tsjaI $u
+(ți a) ts'ja
 (ţi e) ts'je $u 
 (ţi am) tsjam $u
 (ţi ar) tsjar $u
@@ -1163,7 +1166,7 @@ zicea $2
 (te aş) teaS $u
 (l aş) laS $u
 (v aş) vaS $u
-(ne aş) neas $u
+(ne aş) neaS $u
 (i aş) iaS $u
 (şi a) SI^a $u
 (s o) so $u
@@ -1176,7 +1179,7 @@ ni $u
 (nu i) nui $u
 (i am)	jam     $u
 (i ai) jaI $u
-(a şi)  aS;I^   $u
+(a şi)  aSI^   $u
 (a ţi) atsI^ $u
 (într o) ynt@-*o
 (dintr o) dint@-ro
@@ -1206,14 +1209,13 @@ aduceţi $2
 adunătu $4
 adus ad'us
 adventice	$3
-aer		'aIer
+aer		'aier
 afli afli
 africa $1
 africii $1
 afumatu $4
 agentu $3
 agricultu $4
-ahaa ah'a
 aha ah'a
 ahile $2
 aici		a'itSI^
@@ -1258,7 +1260,6 @@ aprig $1
 aprige $1
 aprigi $1
 apropo $3
-apropos ap@-*op'o
 apucătu $4
 apus ap'us
 arăt ar'@t
@@ -1274,6 +1275,7 @@ arsu $2
 artefice	$3
 artera $2
 arteră $2
+articolele  arti2ko'lele
 aruncătu $4
 asemenea	$2
 asigur $2
@@ -1281,7 +1283,7 @@ astăzi $1
 aşeză $3
 ating $2
 aur $1
-auriu au*'iU
+auriu au*'iu
 aventu $3
 avicultu $4
 avocatu $4
@@ -1289,6 +1291,8 @@ avu $2
 
 banner b'en@r
 bannere b'en@*e
+bank    b'enk
+banking b'enking
 bacterie $2
 bacteriei $2
 bacterii $2
@@ -1315,6 +1319,7 @@ bordei $2
 broker b@-*'ok@r
 brio b@-*'io
 broşu $2
+brother   b*'ad@2r
 bubuitu $4
 bucur $1
 bucurăm $3
@@ -1326,6 +1331,7 @@ căderii $2
 căderile $2
 căderilor $2
 cafea $2
+caiet kaj'et
 călcâie $2
 călcătu $3
 căldu $2
@@ -1395,11 +1401,11 @@ confişte $2
 controlă $3
 cocos $1
 colaborăm $4
-color kol'o*
+color kol'oR
 comparăm $3
 complice	$2
 compus	komp'us
-computer komp'jut@r
+computer komp'jut@R
 concurăm $3
 condei $2
 conducem $2
@@ -1411,8 +1417,10 @@ consum $2
 continuă $2
 contrazice	$3 
 conving $2
+copii   kop'iI
 corectu $3
 cosmos $1
+cosmote k'osmot'e
 costum $2
 crâncen $1
 crâncene $1
@@ -1436,13 +1444,13 @@ cristi k@-*'isti
 crivăţ $1
 cuget $1
 cugeţi $1
-cuib k'uIb
+cuib k'ujb
 cuiva $2
 cultu $2
 cusu $2
 cuvântă $3
 cumpărăm $3
-cumpărătu $3 $stem
+cumpărătu $4
 cumva $2
 cunoaştem $2
 cunoaşteţi $2
@@ -1458,7 +1466,9 @@ dărâmătu $4
 dărăt $2
 dăună $3
 david $1
+datoria dato@-*'ia
 datorie dato@-*'ie
+datorii dato@-*'ii
 decolă $3
 deducem $2
 deduceţi $2
@@ -1468,8 +1478,6 @@ deget $1
 degete $1
 deja		$2
 demon $1
-denzic		$2
-denzice		$2
 depozit $2
 depozite $2
 deschidem $2
@@ -1489,6 +1497,7 @@ deunăzi $4
 dezordine	$2
 diavol $1
 diavoli $1
+diesel   d'iz@l
 dinăuntru din@'unt@-*u
 dincolo		$1
 dinînăuntrul dinyn@'unt@-*ul
@@ -1501,13 +1510,14 @@ distrăm $2
 distrus dist@-*'us
 doctor		$1
 doctore $1
-doina doIna
+doina d'oina
+doină d'oin@
+doine d'oine
 domină $1
 domine $1
 domniţă $2
 dori		$2
 două d'ou@
-dradus t@-*ad'us
 dragoş $1
 dragoste $1
 dragostea $1
@@ -1534,10 +1544,12 @@ enter ent@r $1
 episcop $2
 epoc $1
 epoci $1
-eroilor err'oilor
+epocii $1
+eroilor e*'oilor
 examen $2
+examene  egza'mene
 exclus exkl'us
-exerciţiu egzertS'itsju
+exerciţiu egzeRtS'itsju
 exista		$3
 exotic egz'otik
 ex'otice egzotitSe
@@ -1546,16 +1558,17 @@ explică $2
 explice $2
 explorăm $3
 expus eksp'us
-
 facem $1
 faceţi $1
-factice		$2
+factice	$2
 factor $1
 factori $1
 factu $2
 fanatici $2
 farfurie farfu*'ie
-farmacie fa@-*matS'ie
+farmacia  fa@-*matS'ia
+farmacie  fa@-*matS'ie
+farmacii fa@-*matS'iI
 fasole $2
 făcu $2
 febrile $2
@@ -1586,7 +1599,7 @@ fotbal $1
 fractu $2
 fraged $1
 fragede $1
-frankenstein fr'ankenStaIn 
+frankenstein fr'ankenStajn 
 frântu $2
 frigăruie $3
 friptu $2
@@ -1595,7 +1608,6 @@ fulger $1
 fulgere $1
 fumeg $1
 furniză $3
-
 gâdilă $1
 gâgâlice	$3
 găgăuţă g@g@'uts@
@@ -1640,11 +1652,10 @@ hime $2
 hindus ind'us
 hohot $1
 hohote $1
-hoit h'oIt 
+hoit h'oit 
 holbă $2
 hunor $1
 hurducătu $4
-
 idile $2
 ieftin $1
 ieftine $1
@@ -1688,7 +1699,7 @@ incultu $3
 îndărăt $3
 îndepărtă $4
 indic $2
-iei 'jeI
+iei 'jej
 îndoitu $4
 înfăşurătu $5
 înfloritu $4
@@ -1729,6 +1740,7 @@ intime $1
 întoarcem $2
 întoarceţi $2
 întorsătu $4
+întregii  $2
 întotdeauna yntotdea'una
 dintotdeauna dintotdea'una
 învăţă $3
@@ -1740,14 +1752,15 @@ intrigi $1
 introdus introd'us
 învătătu $4
 invers $1
-iPhone aif'@Un
+iPhone 'aif'on
 ipocrizii $4
 istambul $3
 izbitu $3
 
 kelemen $1
-kovesi k'oveSi
+kövesi k'yveSi
 
+jacuzzi    dZ'akuzi
 japonia $2
 japoniei $2
 
@@ -1766,7 +1779,8 @@ lazăr $1
 lăsă $2
 lefter $1
 legătu	$3
-lg eldZ'i
+legii  $1
+lg 'eldZ'i
 liber $1
 lider $1
 lideri $1
@@ -1824,7 +1838,7 @@ metafore $2
 metaforic $3
 mia		m'ia
 micul $1
-microsoft m'aIc@-*osoft
+microsoft m'ajk@-*osoft
 mie		m'ie
 mijloace $1
 mijloc $1
@@ -1847,7 +1861,7 @@ muie m'uje
 murdărie	murd@*'ie
 murmură $1
 muzica $1 
-muzik		$1 
+muzic		$1 
 naturii $3
 năvăli $3
 neregulă $2
@@ -1856,7 +1870,7 @@ neted $1
 netede $1
 netezi $1
 nevăstuie $3  
-nevoi nev'oI
+nevoi nev'oj
 nicicum nitSI^k'um
 nicidecum nitSI^dek'um
 nimic		$2
@@ -1874,7 +1888,7 @@ număr		$1
 numărătu $4
 oameni		$1
 oamenii $1
-oareşice	oa*eStSe $4
+oareşice	oa*eSitSe $4
 oaspete $1
 oaspeţi $1
 obicei $3 
@@ -1885,14 +1899,14 @@ ocol		$2
 oferă $2
 ofere $2
 oftă $2
-ok ok'eI
+ok ok'ej
 omăt om'@t
 onofrei $3
 operăm $3
 optim $1
 opus op'us
 orange 'o@-*indZI^
-oră 'or@
+oră 'o*@
 orban $1
 ordin		$1
 ordine $1
@@ -1920,7 +1934,8 @@ părerii $2
 păstră $2
 parfum $2
 parodii		$3
-parodi		pa*od'i
+parodie		pa*od'ie
+parodia         pa*od'ia
 parole $2
 partene $3
 partener $3
@@ -1990,7 +2005,9 @@ prefacem $2
 prefaceţi $2
 preling $2
 pretutindeni $3
+președinția p@-*eSedints'ia
 preşedinţie p@-*eSedints'ie
+președinții p@-*eSedints'iI
 pricepem $2
 pricepeţi $2
 pricin		$1
@@ -2018,6 +2035,7 @@ prostie p@-*ost'ie
 protocol	$3
 protocoale $3
 protejă $3
+protejării $3
 punem $1
 puneţi $1
 putere $2
@@ -2031,6 +2049,8 @@ răcnet $1
 răcnete $1 
 radar $1
 rahova $1
+rca 'ertSe'a
+rcs 'ertSe'es
 rds 'erde'es
 real re'al
 răget $1
@@ -2066,7 +2086,7 @@ ridică $2
 ridice $2
 robert $1
 roberta $2
-romînia $3
+românia $3
 rotocol		$3
 ronald $1
 rulă $2
@@ -2093,8 +2113,9 @@ secole	$1
 secu $2
 securice	$3
 sedus sed'us
+selfie  s'elfi2
 semene $1
-semiprodus semip*od'us
+semiprodus semip@-*od'us
 şenile $2
 senzor $1
 sergiu		s'erdZju
@@ -2108,7 +2129,11 @@ simbolic	$2
 sincer $1
 singur $1
 singure $1
-şefia Sef'ia	
+sister    s'ist@2r
+şefia Sef'ia
+șefie Sef'ie
+șefii Sef'ii
+slide   sl'aId
 şmecher $1
 şniţel $1
 şoarece $1
@@ -2142,6 +2167,7 @@ strigăte $1
 structu $2
 studie $2
 subordine $2
+survivor  s@*v'aIv@r
 şubred $1
 şubrede $1
 sufăr $1
@@ -2151,6 +2177,7 @@ suflete $1
 suit su'it
 sunet $1
 sunete $1
+supăr $1
 super $1
 suprapus sup@-*ap'us
 supremaţie sup@-*emats'ie
@@ -2163,7 +2190,7 @@ susţineţi $2
 şedere $2
 stocă $2
 
-tabache $3
+tabacheră $3
 tăcere $2
 tăcerea $2
 tăceri $2
@@ -2179,11 +2206,11 @@ tăie $2
 tăviţă $2
 ţanţoş $1
 târcol		$2
-tării $1
+tării $2
 tăviţe $2
-târziu		tyrz'iu
+târziu		tyrz'iU
 tastatu $3
-tati t'ati ]
+tati t'ati
 tatăl $1
 taxi t'aksi
 ţeapăn $1
@@ -2192,7 +2219,8 @@ tejghea $2
 temem $1
 temeţi $1
 tenis $1
-terapi          $alt
+terapia       te*ap'ia
+terapie       te*ap'ie
 terapii		$3
 termen $1
 termeni $1
@@ -2244,7 +2272,7 @@ umede $1
 umezi $1
 umflătu $3
 undeva          $3
-upc upetS'e
+upc ,jupis'i
 urăm $2
 urătu $3
 urlet $1
@@ -2254,7 +2282,7 @@ uscătu $3
 usturătu $4
 utile $2
 unghiul 'ungjul
-tri'unghiul t*iungjul
+triunghiul t@-*iungjul
 
 weber $1
 windows 'wind@Us
@@ -2299,7 +2327,7 @@ vitregi $1
 vizavi $3
 vizită $1
 vodafone v'odafon
-voila vual'a
+voila voal'a
 volum vol'um
 vopsea $2
 voucher v'aUtS@r
@@ -2308,7 +2336,7 @@ vuiete $1
 vultur $1
 vulturi $1
 vulturii $1
-
+xtreme   ikstr'i2m
 yahoo jah'u
 zâmbet $1
 zâmbete $1
@@ -2321,8 +2349,8 @@ zdruncinătu $4
 zgârietu $4
 zgomot $1
 zgomote $1
-ziua z'iw2a
-zombi zombi
+ziua z'iua
+zombie zombi
 
 
 
