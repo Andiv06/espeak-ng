@@ -1,0 +1,156 @@
+// ***************************************************************************/ 
+// *   Crimean Tatar Language ct ct_list                                     *
+// *   Original Author: Andiv06                                              *
+// *   E-mail adress: andyvladescu534@gmail.com                              *
+// ***************************************************************************/
+// *   This program is free software; you can redistribute it and/or modify  *
+// *   it under the terms of the GNU General Public License as published by  *
+// *   the Free Software Foundation; either version 3 of the License, or     *
+// *   (at your option) any later version.                                   *
+// *                                                                         *
+// *   This program is distributed in the hope that it will be useful,       *
+// *   but WITHOUT ANY WARRANTY; without even the implied warranty of        *
+// *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         *
+// *   GNU General Public License for more details.                          *
+// *                                                                         *
+// *   You should have received a copy of the GNU General Public License     *
+// *   along with this program; if not, see:                                 *
+// *               <http://www.gnu.org/licenses/>.                           *
+// ***************************************************************************/
+
+// This file is UTF8 encoded 
+// Spelling to phoneme rules for Crimean Tatar
+
+// Letters
+
+a a:
+б	bE
+в	wE
+г	gE
+ғ GE
+д	de
+е	jE
+ё	jo
+ж	ZE
+з	zE
+и	i
+й	j@
+к	ka:
+қ qa:
+л	LE
+м	mE
+н	nE
+ң	eN
+о	o:
+ө	W:
+п	pE
+р	rE
+с	sE
+т	tE
+у	U
+ү	y
+ф	ef
+х	ha:
+ц	ts'E
+ч	tS'E
+дж dZ'E
+ш	SA
+ъ	?
+ы	I
+ь	-
+э	e|:
+ю	ju
+я	ja:
+_??	ka:ra:kt'Er
+_cap	b'a:r||hEr'Ef
+
+// Numbers
+
+_0	sIf'Ir
+_1	b'ir
+_2	ek'i
+_3	'ytS
+_4	d'Wrt
+_5	b'ES
+_6	Alt'I
+_7	jEd'i
+_8	sEk'iz
+_9	doq'Uz
+_1X	'on
+_2X	jigirm'i
+_3X	ot'uz
+_4X	qIr'q
+_5X	ELL'i
+_6X	Altm'IS
+_7X	JEtm'ES
+_8X	sEks'En
+_9X	doqs'a:n
+_0C	j'Wz
+_0M1	b'iN
+_0M2	millj'on
+_1M2	millj'on
+_0M3	millja:rd
+_1M3	millj'ard
+_dpt  n,oqta:
+
+// accent names
+_lig	bEjlEn'eS
+_acu	ykt'En
+_ac2	 ik,elEt'E||kyrsEteLg'en	
+_brv	Slia:p'a:
+_ced	sEd'iLL'a:
+_cir	ts,irkumfl'eks
+_dia	t@-*'em@
+_dot	nokt'a:
+_grv	jitd'i
+_hac	m'in||e|:Sl'im
+_mcn	ma:kr'on
+_ogo	ogon'Ek
+//_rng	
+_stk	sl'eS	
+_tld	t'ild@
+
+
+// punctuation and symbols
+
+_.  nokt'a:
+_,	ytEmL'E
+_:	Ek'i||nokt'a
+_;	nokt'a:||hEm||ytEmL'E
+_!	ynd'a:u||bELgEs'E
+_?	sop'a:u||bELgEs'E
+_-	m'inUs
+__	j,a:rt'IktILg'a:n
+_'	a:postr'of
+_"	WzEmt'E
+_(	atS'Ik||ka:sa:'E
+_)  ja:b'ik||ka:sa:'E
+_[	kva:rd'a:t||ka:S'ka:
+_]	ja:b'ik||kva:rd'a:t||ka:S'ka:
+_{	ka'SIk||a:tS'Ik
+_}	ja:b'Ik||a:tS'Ik
+_<	k,EtsEr'Ek||'az
+_>	k,EtSEr'Ek||z'ur
+_~	t'ELdE
+_\	a:rtk'a:
+_|	vErtik'al^||sIz'Ik
+_#9	s,a:LInmas'I
+_#32	kiNl'Ek;
+
+.	nokt'a:		$max3
+*	j,oLdIzl'Ik	$max3
+=	tek'iz		$max3
+#	h'e|:S		$max3
++	pl;u2s		$max3
+^ kr'ySka:
+&	ampers'and
+©	avtorL'Ik 
+@	b,iLgEd'e
+/	sl'ES
+€	Evr'o
+°	gra:d'us
+× t,a:pkIrL'a:u
+¤ bal;ut'a
+÷ bel'En||b,yleng'En
+
+км  kilom'Etr
