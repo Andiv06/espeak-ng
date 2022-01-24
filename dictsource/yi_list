@@ -1,0 +1,159 @@
+// This file is UTF8 encoded 
+// Spelling to phoneme rules for Yiddish
+
+א   'alef2
+בּ   b'ejs2
+ב   v'ejs2
+ג   'giml2
+ד   'daled2
+ה   hey2
+ו   vov2
+ז   'zajen2
+ח   x2es2
+ט   tes2
+י   jud2
+כּ   kof2
+כ   x2of2
+ךּ   ka2f2
+ך   x2af2
+ל   'lamed2
+מ   mem2
+ם   mem3
+נ   nun2
+ן   nun3
+ס   sam'ex2
+ע   a'jen2
+פּ   pej2
+פ   fej2
+ף   pej3
+צ  'tsadi2
+ץ  'tsadi3
+ק  kof2
+ר  G'eS2
+שׁ  Sin2
+שׂ  sin3
+תּ  tav2
+ת  Tav3
+
+// Numbers
+
+_0 n'ul2?
+_1 'ejns2?
+_2 'tsvej2?
+_3 'd*aj2?
+_4 'fi2*?
+_5 'finf2?
+_6 'ze2:ks?
+_7 'zi:2b?n?
+_8 'ax2t?
+_9 'naI2n?
+
+_10 'tse:n2?
+_11 '?elf
+_12 'tsvel2f?
+_13 'd*2'aI2ts?n2?
+_14 'fe2*ts?n2?
+_15 'fu2fts?n2?
+_16 'ze2:x2ts?n2?
+_17 'zi:be2ts?n2?
+_18 'ax2ts?n2?
+_19 naI2ts?n2?
+
+_20 tsv'a2ntsi2k2?
+_21 ejn2un,tsv'a2ntsi2k2?
+_22 tsv'ej2?un,tsv'a2ntsi2k2?
+_23 'd*aI2?un,tsv'a2ntsi2k2?
+_24 fi2*?un,tsv'a2ntsi2k2?
+_25 finf2?un,tsv'a2ntsi2k2?
+_26 ze2:ks?un,tsv'a2ntsi2k2?
+_27 'zi:2b?n?un,tsv'a2ntsi2k2?
+_28 ax2t?un,tsv'a2ntsi2k2?
+_29 n'aI2n?un,tsv'a2ntsi2k2?
+
+_30 d*aI2sik2?
+_31 ejn2un,d*aI2si2k2?
+_32 tsv'ej2?un,d*aI2sik2?
+_33 'd*aI2?un,d*aI2s2k2?
+_34 fi2*:?un,d*aI2s2k2?
+_35 finf2?un,d*aI2sik2?
+_36 ze2:ks?un,d*aI2sik2?
+_37 'zi:2b?n?un,d*aI2sik2?
+_38 ax2t?un,d*aI2sik?
+_39 n'aI2n?un,d*aI2sik?
+
+_40 f3:tsi2k2?
+_41 ejn2un,f3:tsi2k2?
+_42 tsv'ej2?un,f3:tsi2k2?
+_43 'd*aI2?un,f3:tsi2k2?
+_44 fi2*:?un,f3:tsi2k2?
+_45 finf2?un,f3:tsi2k2?
+_46 ze2:ks?un,f3:tsi2k2?
+_47 'zi:2b?n?un,f3:tsi2k2?
+_48 ax2t?un,f3:tsi2k2?
+_49 n'aI2n?un,f3:tsi2k2?
+
+_50 f'uftsi2k?
+_51 ejn2un,f'uftsi2k?
+_52 tsv'ej2?un,fuftsi2k?
+_53 'd*aI2?un,fuftsi2k?
+_54 fi2*:?un,fuftsi2k?
+_55 finf2?un,fuftsi2k?
+_56 ze2:ks?un,fuftsi2k?
+_57 'zi:2b?n?un,fuftsi2k?
+_58 ax2t?un,fuftsi2k?
+_59 n'aI2n?un,fuftsi2k2?
+
+_60 z'ex2tsi2k2?
+_61 ejn2un,z'ex2tsi2k2?
+_62 tsv'ej2?un,z'ex2tsi2k2?
+_63 'd*aI2?un,z'ex2tsi2k2?
+_64 fi2*?un,z'ex2tsi2k2?
+_65 finf2?un,z'ex2tsi2k2?
+_66 ze2:ks?un,z'ex2tsi2k?
+_67 'zi:2b?n?un,z'ex2tsi2k2?
+_68 ax2t:un,z'ex2tsi2k2?
+_69 n'aI2n?un,z'ex2tsi2k2?
+
+_70 'zibetsi2k2?
+_71 ejn2un,zibetsi2k2?
+_72 tsv'ej2?un,zibetsi2k2?
+_73 'd*aI2?un,zibetsi2k2?
+_74 fi2*?un,zibetsi2k2?
+_75 finf2?un,zibetsi2k2?
+_76 ze2:ks?un,zibetsi2k2?
+_77 'zi:2b?n?un,zibetsi2k2?
+_78 ax2t:un,zibetsi2k2?
+_79 n'aI2n?un,zibetsi2k2?
+
+_80 ax2tsi2k?
+_81 ejn2un,ax2tsi2k?
+_82 tsvej2?un,ax2tsi2k?
+_83 'd*aI2?un,ax2tsi2k?
+_84 fi*2?un,ax2tsi2k?
+_85 finf2?un,ax2tsi2k?
+_86 ze2:ks?un,ax2tsi2k?
+_87 'zi:2b?n?un,ax2tsi2k?
+_88 ax2t:un,ax2tsi2k?
+_89 n'aI2n?un,ax2tsi2k?
+
+_90 n'aI2ntsi2k?
+_91 ejn2un,n'aI2ntsi2k?
+_92 tsvej2?un,n'aI2ntsi2k?
+_93 'd*aI2?un,n'aI2ntsi2k?
+_94 fi*2?un,n'aI2ntsi2k?
+_95 finf2?un,n'aI2ntsi2k? 
+_96 ze2:ks?un,n'aI2ntsi2k?
+_97 'zi:2b?n?un,n'aI2ntsi2k?
+_98 ax2t:un,n'aI2ntsi2k?
+_99 n'aI2n?un,n'aI2ntsi2k?
+
+_0C ?hund3:t?
+_0M1 ?toI2zent?
+_0M2 mIlj'o:n?
+_1M2 ejn2,mil?j'on?
+_0M3 bi2lj'o:n?
+_1M3 ejn2,bi2lj'o:n?
+_0M4 t*i2lj'o:n?
+_1M4 ejn,t*i2lj'o:n?
+
+_dpt k2'om3:?
