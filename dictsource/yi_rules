@@ -1,5 +1,9 @@
+// This file is UTF8 encoded 
+// Spelling to phoneme rules for Yiddish
+
+
 .replace
-׳	'
+
 
 .group א
        א        ?
