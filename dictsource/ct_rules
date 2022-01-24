@@ -1,0 +1,143 @@
+// ***************************************************************************/ 
+// *   Crimean Tatar Language ct ct_rules                                    *
+// *   Original Author: Andiv06                                              *
+// *   E-mail adress: andyvladescu534@gmail.com                              *
+// ***************************************************************************/
+// *   This program is free software; you can redistribute it and/or modify  *
+// *   it under the terms of the GNU General Public License as published by  *
+// *   the Free Software Foundation; either version 3 of the License, or     *
+// *   (at your option) any later version.                                   *
+// *                                                                         *
+// *   This program is distributed in the hope that it will be useful,       *
+// *   but WITHOUT ANY WARRANTY; without even the implied warranty of        *
+// *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         *
+// *   GNU General Public License for more details.                          *
+// *                                                                         *
+// *   You should have received a copy of the GNU General Public License     *
+// *   along with this program; if not, see:                                 *
+// *               <http://www.gnu.org/licenses/>.                           *
+// ***************************************************************************/
+
+// This file is UTF8 encoded 
+// Spelling to phoneme rules for Crimean Tatar
+.group а
+        а        a:
+
+.group б
+        б        b
+
+.group в
+        в        w   // [v] in Russian words
+
+.group г
+        г        g 
+        
+.group ғ
+        ғ        G // changes to [Q] or [Q"]
+
+.group д
+        д        d
+
+.group е
+        е        je
+       
+
+.group ё
+        ё        jo
+
+.group ж
+        ж        Z
+
+.group з
+        з        z
+
+.group и
+        и        i
+
+.group й
+        й        j
+
+.group к
+        к        k
+        
+.group къ
+         къ      q          
+
+.group л
+        л        l
+
+.group м
+        м        m
+
+.group н
+        н        n
+
+.group ң
+        ң        N
+
+.group о
+        о        o
+
+.group ө
+        ө        W
+
+.group п
+        п        p
+
+.group р
+        р        r
+
+.group с
+        с        s
+
+.group т
+        т        t
+
+.group у
+        у        u   
+
+.group ү
+        ү        y  
+  
+.group ф
+        ф        f
+
+.group х
+        х        x
+
+.group дж
+         дж      dZ
+
+.group ц
+        ц        ts
+
+.group ч
+        ч        tS
+
+.group ш
+        ш        S
+
+.group щ
+        щ        S;
+
+.group ъ
+        ъ        ?
+
+.group ы
+        ы        Y
+
+.group ь
+        ь        ?
+
+.group э
+        э        e|:
+
+.group ю
+        ю        ju   
+
+.group я
+        я        ja   
+
+.group $
+        $        doL'aR
+
