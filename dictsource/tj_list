@@ -1,0 +1,53 @@
+// This file is UTF8 encoded 
+// Spelling to phoneme rules for Tajik
+
+//name of letters
+а     A:
+б     bE
+в     vE
+г     gE
+ғ     GE
+д     dE
+е     je
+ё     jo:
+ж     ZE
+з     zE
+и     i
+ӣ     i:
+й     j'@
+к     kE
+қ     qE
+л     lE
+м     mE
+н     nE
+о     o:
+п     pE
+р     rE
+с     sE
+т     tE
+у     u
+ӯ     @
+ф     fE
+х     xA:
+ҳ     hA:
+ч     tS'E
+ҷ     dZ'E
+ш     SE
+ъ     *
+э     E:
+ю     ju
+я     jA
+
+//Native numbers 0-10
+
+_0n     s'ifr
+_1n     j'Ak
+_2n     du
+_3n     sE
+_4n     tS'Ar
+_5n     p'andZ
+_6n     S'A:S
+_7n     h'Aft
+_8n     h'ASt
+_9n     n'@h
+_10n    d'A:h
