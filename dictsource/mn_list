@@ -40,14 +40,14 @@ e  j,e:
 
 // Native numbers 0-10
 
-_0  te:g
-_1  n,e:g
-_2  x2o:j'o:r
-_3  g,u:r'a:v
-_4  dO:r'O:v
-_5  t,a:v
-_6  z,u:rg'a:a:
-_7  d,o:l#'o:o:
-_8  n,a:'i:m
-_9  'e:s
-_10 'a:r'a:v
+_0n  te:g
+_1n  n,e:g
+_2n  x2o:j'o:r
+_3n  g,u:r'a:v
+_4n  dO:r'O:v
+_5n  t,a:v
+_6n  z,u:rg'a:a:
+_7n  d,o:l#'o:o:
+_8n  n,a:'i:m
+_9n  'e:s
+_10n 'a:r'a:v
