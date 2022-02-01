@@ -20,30 +20,30 @@ endphoneme
 
 phoneme ts
   import_phoneme consonants/ts
-  ipa t̻͡s
+  ipa ts
 endphoneme
 
 phoneme ts;
   import_phoneme pl/ts;
-  ipa t̻͡s̪ʲ
+  ipa ts;
 endphoneme
 
 phoneme ts.
   import_phoneme sr/tS
-  ipa ʈ͡ʂ
-endphoneme
+  ipa ts.
+  endphoneme
 
 phoneme dz
   import_phoneme consonants/dz
-  ipa d̻͡z̪
+  ipa dz
 endphoneme
 
 phoneme dz;
   import_phoneme pl/dz;
-  ipa d̻͡z̪ʲ
+  ipa d;
 endphoneme
 
 phoneme dz.
   import_phoneme sr/dZ
-  ipa ɖ͡ʐ
+  ipa dz.
 endphoneme
