@@ -1,0 +1,48 @@
+// This file is UTF-8 encoded 
+// Spelling to phoneme rules for Faroese
+
+// Letters
+
+_a  a
+á   wa
+b   be
+d   de
+ð   'et.#
+_e  e
+f   'ef:
+g   ge
+h   h'wa
+_i  i
+í   wi
+j   j'ot.#
+k   k'wa
+l   el:
+m   em:
+n   en:
+_o  o
+ó   'ow:
+p   pe
+r   'er:
+s   'es:
+t   te
+_u  u
+ú   yw:
+v   ve
+y   ,sain:a'i
+ý   ,sain:aw'i
+æ   e'a:
+ø   'W:
+
+// Native Numbers 0-10
+
+_0n n'u2l:
+_1n 'aICt
+_2n tvej:
+_3n trw'i2
+_4n fw2ira
+_5n fi2m:
+_6n se2ks:
+_7n Sej2:
+_8n At:A
+_9n n'widZ:ju
+_10n t'widZ:ju
