@@ -74,13 +74,13 @@
        х       x
 
 .group ц
-       ц       ts    // t̻͡s
+       ц       ts    // ts
 
 .group ч
-       ч       ts.   // ʈ͡ʂ
+       ч       ts.   // ts.
 
 .group ш
-       ш       s.    // ʂ
+       ш       s.    // s.
 
 .group ы
        ы       i"    // (ɨ
