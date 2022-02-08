@@ -22,7 +22,6 @@ AM_CFLAGS = \
 	-Wno-endif-labels
 
 EXTRA_DIST=
-CLEANFILES = dictsource/ru_listx dictsource/cmn_listx dictsource/yue_listx
 
 bin_PROGRAMS =
 lib_LTLIBRARIES =
