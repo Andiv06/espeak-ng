@@ -26,16 +26,15 @@ w       w'i
 y       j'i
 '       ?
 
-// Numbers
-_0      p'ar-
-_1      wa'
-_2      tSa'
-_3      w'edZ
-_4      l'os
-_5      v'ar-
-_6      dZ'av
-_7      s'otS
-_8      tS'orR-
-_9      tS'oRr-
-_10     h'ut
-
+// Native Numbers 0-10
+_0n      p'ar-
+_1n      wa'
+_2n      tSa'
+_3n      w'edZ
+_4n      l'os
+_5n      v'ar-
+_6n      dZ'av
+_7n      s'otS
+_8n      tS'orR-
+_9n      tS'oRr-
+_10n     h'ut
