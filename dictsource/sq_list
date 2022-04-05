@@ -46,30 +46,30 @@ _1	n^'I#
 _2	d'y
 _3	tR'E
 _4	k'at@R
-_5	p'Es@/
-_6	dZ;'aSt@/
-_7	St'at@/
-_8	t'Et@/
-_9	n'Vnt@/
-_10	Dj'Et@/
-_11	n^'I#mb@/Djet@/
-_12	d'ymb@/Djet@/
-_13	tR'Emb@/Djet@/
-_14	k'at@rmb@/Djet@/
-_15	p'Es@mb@/Djet@/
-_16	dZ;'aSt@mb@/Djet@/
-_17	St'at@mb@/Djet@/
-_18	t'Et@mb@/Djet@/
-_19	n'Vnt@mb@/Djet@/
+_5	p'Es
+_6	dZ;'aSt
+_7	St'at
+_8	t'Et
+_9	n'Vnt
+_10	Dj'Et
+_11	n^'I#mb/Djet/
+_12	d'ymb/Djet/
+_13	tR'Emb/Djet/
+_14	k'at@rmb/Djet/
+_15	p'Es@mb/Djet/
+_16	dZ;'aSt@mb/Djet/
+_17	St'at@mb/Djet/
+_18	t'Et@mb/Djet/
+_19	n'Vnt@mb/Djet/
 
 _2X	n^'I#zEt
-_3X	tR'iDjet%@/
+_3X	tR'iDjet%/
 _4X	d'yzEt
-_5X	p'Es@/Djet%@/
-_6X	dZ;'aSt@/Djet%@/
-_7X	St'at@/Djet%@/
-_8X	t'Et@/Djet%@/
-_9X	n'Vnt@/Djet%@/
+_5X	p'Es/Djet%/
+_6X	dZ;'aSt/Djet%/
+_7X	St'at/Djet%/
+_8X	t'Et/Djet%/
+_9X	n'Vnt/Djet%/
 
 _0C	c,ind
 _0M1	m,ij@/
@@ -145,7 +145,7 @@ se	$u+
 nga	$u+
 ka	$u+
 
-janë	$u+
+janë	jan  $u+  
 
 
 // pronunciation exceptions
