@@ -75,7 +75,7 @@ updated languages:
 *  yue (Cantonese) -- Andiv06
 
 new languages:
-*  be (Belarusian) -- Sergei B
+*  be (Belarusian) -- Sergei B, Andiv06
 *  chr (Cherokee) -- Michael Conrad
 *  cv (Chuvash) -- boracasli98, Valdis Vitolins
 *  en-us-nyc (English, New York City) -- Richard Calvi
@@ -142,7 +142,7 @@ new languages:
 *  quc (K'iche') -- Valdis Vitolins
 *  ru-lv (Russian Latvia) -- Valdis Vitolins
 *  shn (Shan Tay Yai) -- ronaldaug
-*  uz (Uzbek) -- Valdis Vitolins
+*  uz (Uzbek) -- Valdis Vitolins, Andiv06
 
 updated languages:
 
