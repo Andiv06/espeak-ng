@@ -15,10 +15,11 @@
         л	l
         м	m	
         н	n
+        нъ      ñ
         о	o
         п	p
+        къ      q
         р	r
-        къ q
         с	s
         т	t
         у	u
@@ -29,8 +30,8 @@
         й	y
         ц	ts
         ч	ç
-        щ	xtx
-        ы	@
+        щ	şç
+        ы	ı
         э	e
         ю	yu
         я	ya
@@ -85,6 +86,9 @@
         
 .group n
         n    n
+        
+.group ñ
+        ñ    N
         
 .group o
         o    o
