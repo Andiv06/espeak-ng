@@ -2019,6 +2019,9 @@ include ph_czech
 phonemetable cnr hr
 include ph_montenegrin
 
+phonemetable tvl base2
+include ph_tuvaluan
+
 phonemetable hr sk
 include ph_croatian
 
