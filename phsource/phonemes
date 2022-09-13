@@ -2039,6 +2039,9 @@ phonemetable uk ru
 phonemetable az tr
 include ph_azerbaijani
 
+phonemetable crh tr
+include ph_crimean_tatar
+
 phonemetable cv tr
 include ph_chuvash
 
