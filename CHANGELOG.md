@@ -33,6 +33,7 @@ updated languages:
 *  uz (Uzbek) -- Andiv06
 
 new languages:
+*  mn (Mongolian) -- Andiv06
 *  mto (Totontepec Mixe) -- Bill Dengler, Elizabeth Resendiz
 
 ### 1.51
