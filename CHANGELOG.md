@@ -35,6 +35,7 @@ updated languages:
 new languages:
 *  mn (Mongolian) -- Andiv06
 *  mto (Totontepec Mixe) -- Bill Dengler, Elizabeth Resendiz
+*  ro-md (Romanian from Moldova) -- Andiv06
 
 ### 1.51
 
