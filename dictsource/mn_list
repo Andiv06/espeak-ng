@@ -1,0 +1,116 @@
+// This file is UTF8 encoded
+// Translation rules for Mongolian
+
+// letters
+а a
+б pe
+в ve
+г ge
+д de
+е je
+ё jo
+ж dZe
+з ze
+и i
+й x'agas'i
+к ka
+л el
+м em
+н en
+o 'o
+ө 'W
+п pe
+р er
+с es
+т te
+у u
+ү y
+ф fe
+х x2a
+ц tse
+ч tSe
+ш Se
+щ StSe
+ъ XatuXi:nt'emdeg
+ы I
+ь zW:l#nijt'emdeg
+э E
+ю ju
+я ja
+
+// numbers
+
+_0 t'eg
+_1 n'eg
+_2 x2'ojor
+_3 g'urav
+_4 d'WrWv
+_5 t'av
+_6 zurX'a:
+_7 d'ol#o:
+_8 n'ajm
+_9 j'es
+_10 'arav
+_1X ,arvan
+_20 x2'orj
+_2X x2,orin
+_30 g'utS
+_3X g,utSin
+_40 d'otS
+_4X d,otSin
+_50 t'avi
+_5X t,avin
+_60 dZ'ar
+_6X dZ,arin
+_70 d'al#
+_7X d,al#in
+_80 n'aja
+_8X n,ajain
+_90 j'er
+_9X j,erin
+_0C z'u:
+_0M1 mj'anXa
+_0M2 s'aja
+
+// symbols
+
+_, t'asl#al#
+_: byd'y:Nged'e:s
+_& ampjersand
+_^ X'alamdZ
+_! anX'a:rl#Int'emdeg
+_? as'u:l#tInt'emdeg
+_( ne:l#ttejduguiX'a:l#t
+_) Xa:l#tajduguiX'a:l#t
+_[ ne:l#tejdWrvWl#dZinX'a:l#t
+_] Xa:l#tajdWrvWl#dZinX'a:l#t
+_{ ne:l#tejX'a:l#t
+_} Xa:l#ttajbeXelX'e:
+_| boso:b'a:
+/ nal#u:zur'a:s
+_\ urvu:nal#u:zur'a:s
+_; tsegtasl#'al#
+. ts'eg $max3
++ n'emeX $max3
+× ud'a: $max3
+# X'es $max3
+= tentsy:b'ajna $max3
+$ d'ol#ar
+% X'uvi
+@ t'emdegd'e:r
+* 'od
+/ nal#u:zur'a:s
+
+// pronouns
+
+// possesive pronouns
+
+// adjectives and adverbs
+
+// postpositions
+
+// prepositions
+
+// negatives
+
+// character names
