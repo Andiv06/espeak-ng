@@ -1,4 +1,4 @@
-// vowels
+// Vowels
  
 phoneme a
   vwl starttype #a endtype #a
@@ -19,7 +19,7 @@ phoneme u
 endphoneme
 
 
-// consonants
+// Consonants
 
 phoneme TS     // **ch**urch
   vls pla afr sib
