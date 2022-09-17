@@ -74,8 +74,12 @@ if HAVE_GRADLE
 endif
 
 distclean-local:
-	rm -rf espeak-ng-data/phondata-manifest
 	rm -f espeak-ng-data/*_dict
+	rm -f espeak-ng-data/intonations
+	rm -f espeak-ng-data/phondata
+	rm -f espeak-ng-data/phondata-manifest
+	rm -f espeak-ng-data/phonindex
+	rm -f espeak-ng-data/phontab
 
 ##### custom rules:
 
@@ -151,6 +155,7 @@ src_libespeak_ng_la_SOURCES = \
 	src/ucd-tools/src/proplist.c \
 	src/ucd-tools/src/scripts.c \
 	src/ucd-tools/src/tostring.c \
+	src/libespeak-ng/common.c \
 	src/libespeak-ng/compiledata.c \
 	src/libespeak-ng/compiledict.c \
 	src/libespeak-ng/compilembrola.c \
@@ -174,11 +179,13 @@ src_libespeak_ng_la_SOURCES = \
 	src/libespeak-ng/synthesize.c \
 	src/libespeak-ng/synth_mbrola.c \
 	src/libespeak-ng/translate.c \
+	src/libespeak-ng/translateword.c \
 	src/libespeak-ng/tr_languages.c \
 	src/libespeak-ng/voices.c \
 	src/libespeak-ng/wavegen.c
 
 noinst_HEADERS = \
+	src/libespeak-ng/common.h \
 	src/libespeak-ng/compiledict.h \
 	src/libespeak-ng/dictionary.h \
 	src/libespeak-ng/error.h \
@@ -205,6 +212,7 @@ noinst_HEADERS = \
 	src/libespeak-ng/synthdata.h \
 	src/libespeak-ng/synthesize.h \
 	src/libespeak-ng/translate.h \
+	src/libespeak-ng/translateword.h \
 	src/libespeak-ng/voice.h \
 	src/libespeak-ng/wavegen.h \
 	src/speechPlayer/include/speechPlayer.h \
@@ -451,6 +459,7 @@ dictionaries: \
         espeak-ng-data/chr_dict \
         espeak-ng-data/cnr_dict \
         espeak-ng-data/cmn_dict \
+	espeak-ng-data/crh_dict \
 	espeak-ng-data/cs_dict \
 	espeak-ng-data/cv_dict \
 	espeak-ng-data/cy_dict \
@@ -505,6 +514,7 @@ dictionaries: \
 	espeak-ng-data/mis_dict \
 	espeak-ng-data/mk_dict \
 	espeak-ng-data/ml_dict \
+	espeak-ng-data/mn_dict \
 	espeak-ng-data/mr_dict \
 	espeak-ng-data/ms_dict \
 	espeak-ng-data/mt_dict \
@@ -615,6 +625,9 @@ espeak-ng-data/chr_dict: dictsource/chr_list dictsource/chr_rules
 
 cnr: espeak-ng-data/cnr_dict
 espeak-ng-data/cnr_dict: dictsource/cnr_list dictsource/cnr_rules
+
+crh: espeak-ng-data/crh_dict
+espeak-ng-data/crh_dict: dictsource/crh_list dictsource/crh_rules
 
 cs: espeak-ng-data/cs_dict
 espeak-ng-data/cs_dict: dictsource/cs_list dictsource/cs_rules dictsource/cs_extra dictsource/cs_emoji
@@ -777,6 +790,9 @@ espeak-ng-data/mk_dict: dictsource/mk_list dictsource/mk_rules dictsource/mk_ext
 
 ml: espeak-ng-data/ml_dict
 espeak-ng-data/ml_dict: dictsource/ml_list dictsource/ml_rules dictsource/ml_extra dictsource/ml_emoji
+
+mn: espeak-ng-data/mn_dict
+espeak-ng-data/mn_dict: dictsource/mn_list dictsource/mn_rules dictsource
 
 mr: espeak-ng-data/mr_dict
 espeak-ng-data/mr_dict: dictsource/mr_list dictsource/mr_rules dictsource/mr_extra dictsource/mr_emoji

@@ -18,6 +18,7 @@ To check, what languages are supported by distributed version, run `espeak-ng --
 | `trk`       | `az`              | Turkic                | Azerbaijani                 |                        |
 | `trk`       | `ba`              | Turkic                | Bashkir                     |                        |
 | `trk`       | `cu`              | Turkic                | Chuvash                     |                        |
+| `trk`       | `crh`             | Turkic                | Crimean Tatar               |                        | 
 | `inc        | `mai`             | Indic                 | Maithili                    |                        |
 | `eu`        |                   | Basque                | Basque                      |                        |
 | `zle`       | `be`              | East Slavic           | Belarussian                 |                        |
@@ -30,6 +31,7 @@ To check, what languages are supported by distributed version, run `espeak-ng --
 | `iro`       | `chr`             | Iroquoian             | Cherokee <sup>\[1,6\]</sup> | Western/C.E.D.         |
 | `sit`       | `yue`             | Sino-Tibetan          | Chinese                     | Cantonese              |
 | `sit`       | `hak`             | Sino-Tibetan          | Chinese                     | Hakka                  |
+| `sit        | `goyu`            | Sino-Tibetan          | Chinese                     | Taiwanese              |
 | `map`       | `haw`             | Austronesian          | Hawaiian                    |                        |
 | `sit`       | `cmn`             | Sino-Tibetan          | Chinese                     | Mandarin               |
 | `zls`       | `hr`              | South Slavic          | Croatian<sup>\[1,2\]</sup>  |                        |
@@ -41,7 +43,7 @@ To check, what languages are supported by distributed version, run `espeak-ng --
 | `gmw`       | `en`              | West Germanic         | English                     | British                |
 | `gmw`       | `en-029`          | West Germanic         | English                     | Caribbean              |
 | `gmw`       | `en-gb-x-gbclan`  | West Germanic         | English                     | Lancastrian            |
-| `gmw`       | `en-au`           | West Germanic         | English                     | Australia              |
+| `gmw`       | `en-au`           | West Germanic         | English                     | Australian             |
 | `gmw`       | `en-gb-scotland`  | West Germanic         | English                     | Scottish               |
 | `gmw`       | `en-gb-x-gbcwmd`  | West Germanic         | English                     | West Midlands          |
 | `art`       | `eo`              | Constructed           | Esperanto                   |                        |
@@ -89,6 +91,7 @@ To check, what languages are supported by distributed version, run `espeak-ng --
 | `zls`       | `mk`              | South Slavic          | Macedonian<sup>\[1,2\]</sup> |                       |
 | `poz`       | `ms`              | Malayo-Polynesian     | Malay                       |                        |
 | `dra`       | `ml`              | Dravidian             | Malayalam                   |                        |
+|             | `mn               |                       | Mongolian                   |                        |
 | `sem`       | `mt`              | Semitic               | Maltese                     |                        |
 | `inc`       | `mr`              | Indic                 | Marathi                     |                        |
 | `azc`       | `nci`             | Uto-Aztecan           | Nahuatl                     | Classical              |

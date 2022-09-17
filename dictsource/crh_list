@@ -1,0 +1,107 @@
+// This file in UTF8 encoded.
+// Spelling to phoneme rules for Crimean Tatar
+
+// Letters
+
+a a
+b be
+c dZe
+ç tSe
+d de
+e e
+f fe
+g ge
+ğ Xe
+h he
+ı @
+i i
+j Ze
+k ke
+l le
+m me
+n ne
+ñ Ne
+o o $atend
+ö W
+p pe
+q q@
+r re
+s se
+ş Se
+t te
+u u
+ü y
+v ve
+y je
+z ez
+
+// Numbers
+
+_0 s@f'@r
+_1 b'ir
+_2 ek'i
+_3 'ytS
+_4 d'Wrt
+_5 b'eS
+_6 alt'@
+_7 jed'i
+_8 sek'iz
+_9 doq'uz
+_1X on
+_2X jigirm'i
+_3X ot'uz
+_4X q@rq
+_5X ell'i
+_6X altm'@S
+_7X jetm'iS
+_8X seks'en
+_9X doqs'an
+_0C j'yz
+_1C j'yz
+_0M1 b'iN
+_0M2 m,illon
+_0M3 m,illiard
+
+// personal pronouns
+
+seniñ $u
+siziñ $u
+menim $u
+(er kim) $u
+siz $u
+biz $u
+kim $u
+o $u $atend
+men $u
+oña $u
+anav $u
+anavğa $u
+biz $u
+bu $u
+maña $u
+mağa $u
+menim $u
+mınav $u
+nau $u
+qayda $u 
+saña $u
+sağa $u
+sen $u
+öz $u
+(öz başına) $u
+özü $u 
+özüm $u
+özüñ $u
+şu $u
+
+// abbreviations
+
+// possesive pronouns
+
+// prepositions
+
+// postpositions
+
+// unstressed words
+
+// character names
