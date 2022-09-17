@@ -125,31 +125,31 @@ $ d'oLar
 \ tetir'i||sl'eS      $max3
 _- sIzIqtS'a
 _ astInq'I||kenemt'e    $max3
-~ tild'e
+_~ tild'e
 № nom'er
-! il'ep||belg'i
-? sur'o:||belg'i
-( qaS'a:a||tS'u:
-) qaS'a:||dZab'u:
-| t'ik||sl'eS
-{ atSu:tS'u||figuraL'Iq||qaS'a:
-} dZabu:tS'u||figuraL'Iq||qaS'a:
-[ atSu:tS'u||kvadratt'Iq||qaS'a:
-] dZabu:tS'u||kvadratt'Iq||qaS'a:
-> azd'Iq||belgis'i
-< kOpt'yk||belgis'i
+_! il'ep||belg'i
+_? sur'o:||belg'i
+_( qaS'a:a||tS'u:
+_) qaS'a:||dZab'u:
+_| t'ik||sl'eS
+_{ atSu:tS'u||figuraL'Iq||qaS'a:
+_} dZabu:tS'u||figuraL'Iq||qaS'a:
+_[ atSu:tS'u||kvadratt'Iq||qaS'a:
+_] dZabu:tS'u||kvadratt'Iq||qaS'a:
+_> azd'Iq||belgis'i
+_< kOpt'yk||belgis'i
 _. tSek'it
-, yt'yr 
-` atSu:tS'u||apostr'of
-" tIrmaqtS'a
-' dZabu:tS'u||apostr'of
-; tSek'it||yt'yr
-: q'oS||tSek'it
+_, yt'yr 
+_` atSu:tS'u||apostr'of
+_" tIrmaqtS'a
+_' dZabu:tS'u||apostr'of
+_; tSek'it||yt'yr
+_: q'oS||tSek'it
 × kObOjty:
-// ÷
+÷ dZalp'I
 // - дефис
-《 atSu:tSu||franzuz||tIrmaqtSaLarI
- 》dZabu:tSu||franzuz||tIrmaqtSaLarI
+_《 atSu:tSu||franzuz||tIrmaqtSaLarI
+_》dZabu:tSu||franzuz||tIrmaqtSaLarI
 
 // Abbreviations
 
@@ -170,7 +170,8 @@ _. tSek'it
 ал $u+
 алар $u+
 
-// possessive pronouns
+// negatives
+жок $u+
 
 // conjunctions
 (болсо да) $u
@@ -181,10 +182,25 @@ _. tSek'it
 эмнеден $u
 
 // prepositions
+га $u
+нын $u
+ичинде $u
+үчүн $u
+үстүндө $u
+менен $u
+да $u
+тарабынан $u
+дан $u
+жөнүндө $u
+(ичине карай) $u
+жогору $u
+кийин $u
+түбүндө $u
+астында $u
 
 // postpositions
+жаатындагы $u
+караганда $u
+үчүн $u
 
 // Character names
-
-
-
